@@ -91,4 +91,4 @@ python get_avg_mutual_information_gain.py
 This code will print the top 10 features and also the average mutual information gain between each outcome and each feature for top 10 features as reported in Table 8 in the paper.
 
 ### Citation
-[Authors masked for review], [Project masked for review]. 2024: [Website masked for Review].
+Timmons, A. C., Ahle, M. W., Comer, J. S., Narayanan, S., & Chaspari, T. (2023). Childhood Mobile Data Project Data Repository. (Colliga Data Repository). https://colliga.io/data-repository/.
