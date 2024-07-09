@@ -18,8 +18,8 @@ conda activate mhealth
 
 Follow the instructions of the `docs/Github_Authentication.pdf` file to establish git. Clone the repository:
 ```
-git clone https://github.com/Colliga-Apps/5819360343
-cd 5819360343 && pip install -r requirements.txt
+git clone https://github.com/ColligaAdmin/data-repository
+cd data-repository && pip install -r requirements.txt
 ```
 
 ### Project Structure
